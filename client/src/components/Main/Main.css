@@ -1,0 +1,21 @@
+.nft-batch {
+  border: 1px solid white;
+  border-bottom: 0.5px solid grey;
+  text-align: left;
+  padding: 5px;
+  display: flex;
+}
+.nft-id {
+  padding: 5px;
+}
+.nft-remove {
+  padding: 5px ;
+  margin-left: auto;
+  order: 2;
+}
+.sell-btn {
+  padding: 20px;
+}
+.p-alerts {
+  padding: 10px;
+}
